@@ -11,7 +11,7 @@ import { useAppDispatch, useAppSelector } from '../../store'
 import { selectCart, selectTotalCartPrice } from '../cart/cartSlice'
 import EmptyCart from '../cart/EmptyCart'
 import { formatCurrency } from '../../utilities/helpers'
-import { MouseEvent, useState } from 'react'
+import { useState } from 'react'
 import { fetchAddress } from '../user/userSlice'
 
 type FormErrors = {

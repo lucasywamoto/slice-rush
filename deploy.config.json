@@ -1,0 +1,8 @@
+{
+  "deploy": {
+    "enabled": true,
+    "subdomain": "slicerush",
+    "app_path": "/var/www/slicerush",
+    "app_name": "slicerush"
+  }
+}
