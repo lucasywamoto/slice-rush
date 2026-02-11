@@ -106,21 +106,6 @@ The app uses several configuration files:
 - `prettier.config.js` - Code formatting rules
 - `tsconfig.json` - TypeScript configuration
 - `vite.config.ts` - Vite build configuration with API proxy
-
-## 📝 License
-
-This project is open source and available under the MIT License.
-
-## 👨‍💻 Author
-
-**Lucas Ywamoto**
-- GitHub: [@lucasywamoto](https://github.com/lucasywamoto)
-
-## 🙏 Acknowledgments
-
-- Pizza API provided by Jonas Schmedtmann's React course
-- Built as a learning project to demonstrate modern React patterns and best practices
-
 ---
 
 **Enjoy ordering your pizza! 🍕**
